@@ -1,7 +1,7 @@
 来源 ： [dhm2013724/yolov2_xilinx_fpga](https://github.com/dhm2013724/yolov2_xilinx_fpga)  
 
 > 因为规范更改，原本的tcl文件替换成了hwh。所以我用原作代码生成了IP再生成比特流文件，附带着就得到了hwh文件<br/>
-> 因为规范更改，取消了分配空间的Xlnk类，所以改用allocate类
+> 因为规范更改，取消了分配空间的Xlnk类，改用allocate类
 
 ### 1.  Open yolov2.ipynb in jupyter notebook
 ### 2. You can change the image path:  
